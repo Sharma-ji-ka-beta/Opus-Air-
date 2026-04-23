@@ -36,8 +36,8 @@ Opus Air uses AI simulation and real-time reallocation logic to optimize operati
 - Multi-airport deployment
 - SaaS model for airlines
 
-## Screenshots
-(Add later)
-
 ## Author
-Your Name
+Deep Sharma
+Sawan Pal
+Harshit Singh
+Shreyansh Rai
